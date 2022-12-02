@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "871561077305",
+    "project_id": "spring-3-22e3e",
+    "storage_bucket": "spring-3-22e3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871561077305:android:d9456eace409557755a3e8",
+        "android_client_info": {
+          "package_name": "com.example.spring3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871561077305-6k9f2i6be9sm92ea1e7n4arqh73c9t7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLjof4--7cqmndHL2YoqRw6mPws1BRi1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871561077305-6k9f2i6be9sm92ea1e7n4arqh73c9t7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
